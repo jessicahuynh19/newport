@@ -21,5 +21,11 @@
 }
 
 .nav-link-wrapper a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.nav-link-wrapper: hover {
     
 }
